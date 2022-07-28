@@ -1,0 +1,13 @@
+costura.anarchy.dll.compressed|0.8.1.1|Anarchy, Version=0.8.1.1, Culture=neutral, PublicKeyToken=null|Anarchy.dll|66BE90D412DA0AFA21E9127E866DE179453E355E|688640
+costura.costura.dll.compressed|5.7.0.0|Costura, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null|Costura.dll|F1F25C01F6ACF33BDD62C4F82D3EF078E76F0906|4608
+costura.costura.pdb.compressed|||Costura.pdb|6C6000A5EAF8579850AB82A89BD6268776EB51AD|2608
+costura.discordrpc.dll.compressed|1.0.175.0|DiscordRPC, Version=1.0.175.0, Culture=neutral, PublicKeyToken=null|DiscordRPC.dll|E70E10A18A3AE85CD1CA9BE66A7BB46D99CCCCD3|81408
+costura.discordrpc.pdb.compressed|||DiscordRPC.pdb|C4A79AE06E8BE9E5B776DF376130CCA4A6AE24AF|26420
+costura.leaf.xnet.dll.compressed|5.2.10.0|Leaf.xNet, Version=5.2.10.0, Culture=neutral, PublicKeyToken=null|Leaf.xNet.dll|89662FED195D7B9D65AB7BA8605A3CD953F2B06A|132608
+costura.microsoft.win32.registry.dll.compressed|4.1.3.0|Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|Microsoft.Win32.Registry.dll|1C27A41FD84D6BFE99DABAE2E59FCF12FCCF6213|23112
+costura.newtonsoft.json.dll.compressed|12.0.0.0|Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed|Newtonsoft.Json.dll|1248142EB45EED3BEB0D9A2D3B8BED5FE2569B10|700336
+costura.system.diagnostics.diagnosticsource.dll.compressed|4.0.1.0|System.Diagnostics.DiagnosticSource, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.Diagnostics.DiagnosticSource.dll|85DC92EDD4B0049ED9049E075C4DEF8A3D64E43B|35760
+costura.system.security.accesscontrol.dll.compressed|4.1.3.0|System.Security.AccessControl, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.AccessControl.dll|8A3B1BD9DF5D052C24DE2304A2928FAD86927F6D|30792
+costura.system.security.principal.windows.dll.compressed|4.1.3.0|System.Security.Principal.Windows, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a|System.Security.Principal.Windows.dll|2AED74577F5F623F7E910ADDA8EF74A11EEA0437|15224
+costura.system.valuetuple.dll.compressed|4.0.3.0|System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51|System.ValueTuple.dll|D1664731719E85AAD7A2273685D77FEB0204EC98|25232
+costura.websocket-sharp.dll.compressed|1.0.2.36182|websocket-sharp, Version=1.0.2.36182, Culture=neutral, PublicKeyToken=5660b08a1845a91e|websocket-sharp.dll|D0B9977555EAE2D116D103613DF8D12A318E8195|254464

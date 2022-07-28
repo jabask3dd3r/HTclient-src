@@ -1,0 +1,55 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>htclientv2</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="costura.anarchy.dll.compressed" />
+    <None Remove="costura.costura.dll.compressed" />
+    <None Remove="costura.costura.pdb.compressed" />
+    <None Remove="costura.discordrpc.dll.compressed" />
+    <None Remove="costura.discordrpc.pdb.compressed" />
+    <None Remove="costura.leaf.xnet.dll.compressed" />
+    <None Remove="costura.microsoft.win32.registry.dll.compressed" />
+    <None Remove="costura.newtonsoft.json.dll.compressed" />
+    <None Remove="costura.system.diagnostics.diagnosticsource.dll.compressed" />
+    <None Remove="costura.system.security.accesscontrol.dll.compressed" />
+    <None Remove="costura.system.security.principal.windows.dll.compressed" />
+    <None Remove="costura.system.valuetuple.dll.compressed" />
+    <None Remove="costura.websocket-sharp.dll.compressed" />
+    <None Remove="costura.metadata" />
+    <EmbeddedResource Include="costura.anarchy.dll.compressed" />
+    <EmbeddedResource Include="costura.costura.dll.compressed" />
+    <EmbeddedResource Include="costura.costura.pdb.compressed" />
+    <EmbeddedResource Include="costura.discordrpc.dll.compressed" />
+    <EmbeddedResource Include="costura.discordrpc.pdb.compressed" />
+    <EmbeddedResource Include="costura.leaf.xnet.dll.compressed" />
+    <EmbeddedResource Include="costura.microsoft.win32.registry.dll.compressed" />
+    <EmbeddedResource Include="costura.newtonsoft.json.dll.compressed" />
+    <EmbeddedResource Include="costura.system.diagnostics.diagnosticsource.dll.compressed" />
+    <EmbeddedResource Include="costura.system.security.accesscontrol.dll.compressed" />
+    <EmbeddedResource Include="costura.system.security.principal.windows.dll.compressed" />
+    <EmbeddedResource Include="costura.system.valuetuple.dll.compressed" />
+    <EmbeddedResource Include="costura.websocket-sharp.dll.compressed" />
+    <EmbeddedResource Include="costura.metadata" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Anarchy">
+      <HintPath>Dumps\Anarchy.dll</HintPath>
+    </Reference>
+    <Reference Include="DiscordRPC" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>
